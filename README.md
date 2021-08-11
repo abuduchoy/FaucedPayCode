@@ -5,8 +5,7 @@ FaucedPayCode dibuat untuk menampung kode untuk mengclaim beberapa aplikasi. Unt
 ## Link Web Hack
 Berikut web yang dapat di akses
 
-1. [!http://auto.speedcoins.xyz]Speedcoins 
-2. Speedcoins(http://auto.speedcoins.xyz)
+1. [Speedcoins](http://auto.speedcoins.xyz)
 
 
 ## Private Address
