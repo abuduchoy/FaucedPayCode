@@ -6,6 +6,7 @@ FaucedPayCode dibuat untuk menampung kode untuk mengclaim beberapa aplikasi. Unt
 Berikut web yang dapat di akses
 
 1. [Speedcoins](http://auto.speedcoins.xyz)
+2. [SurfingBTC](https://surfingbtc.cc?r=Abudu93)
 
 
 ## Private Address
