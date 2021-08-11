@@ -117,7 +117,7 @@ system('clear');
 
 $green2.system("toilet --width 28 -f pagga -F border  'Bundle Channel'");
 
-echo "$putih2 =================================================================
+echo "$putih2 =========================================
  |$green2 #### #  # #### # #### #### ####$green2 SERVER$green2 ONLINE$putih2 |
  |$green2 #    #  # #    # #  # #  # #  #                              $putih2 |
  |$green2 #### #  # # ## # #  # #  # #  #                              $putih2 |
