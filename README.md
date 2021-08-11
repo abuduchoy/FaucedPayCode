@@ -12,5 +12,9 @@ Berikut web yang dapat di akses
 ## Private Address
 ### Doge Address
 ```
-
+D6Lh3ALK2Gx5QsanxxfcoE6P2TiHnCJ21a
+```
+### Doge Address
+```
+TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF
 ```
