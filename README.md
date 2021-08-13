@@ -9,12 +9,24 @@ Berikut web yang dapat di akses
 2. [SurfingBTC](https://surfingbtc.cc?r=Abudu93)
 
 
-## Private Address
+## Address [FaucedPay](https://faucetpay.io/?r=2178387)
+### BTC Address
+```
+1HpXc7SUMcHNg3iyxsQadDsa5RK3K93kQx
+```
 ### Doge Address
 ```
 D6Lh3ALK2Gx5QsanxxfcoE6P2TiHnCJ21a
 ```
-### Doge Address
+### TRX Address
+```
+TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF
+```
+### BNB Address
+```
+0x058ed9a61c8DF0CD3a4ec9B231258d5f442DC0C1
+```
+### USDT Address
 ```
 TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF
 ```
