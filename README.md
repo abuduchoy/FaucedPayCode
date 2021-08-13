@@ -2,13 +2,20 @@
 
 FaucedPayCode dibuat untuk menampung kode untuk mengclaim beberapa aplikasi. Untuk saat ini Admin masih akan berfokus menggunakan SmartPhone Android
 
-## Link Web Hack
+## Link Web
 Berikut web yang dapat di akses
 
 1. [Speedcoins](http://auto.speedcoins.xyz)
 2. [SurfingBTC](https://surfingbtc.cc?r=Abudu93)
 
+No | Site    | Coin    | Walet   
+---|---------|----------|-----------
+1|[Freebitcoin](https://freebitcoin.io/)|BTC|FaucedPay
 
+
+```{r, echo = FALSE }
+// 1|[]()||
+```
 ## Address [FaucedPay](https://faucetpay.io/?r=2178387)
 ### BTC Address
 ```
@@ -30,3 +37,8 @@ TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF
 ```
 TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF
 ```
+
+
+## Referensi
+- [GitHub Emoji] (
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
