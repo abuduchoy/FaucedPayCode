@@ -8,23 +8,23 @@ Berikut web yang dapat di akses
 1. [Speedcoins](http://auto.speedcoins.xyz)
 2. [SurfingBTC](https://surfingbtc.cc?r=Abudu93)
 
-No | Site    | Coin    | Walet   
----|---------|----------|-----------
-1|[Freebitcoin](https://freebitcoin.io/)|BTC|FaucedPay
-2|[coinfaucet.io](https://coinfaucet.io)||
-3|[coinfaucet.net](https://coinfaucet.net)||
-4|[faucetbit.io](https://faucetbit.io)||
-5|[freecardano.com](https://freecardano.com)||
-6|[freetether.com](https://freetether.com)||
-7|[freeusdcoin.com](https://freeusdcoin.com)||
-9|[free-tron.com](https://free-tron.com)||
-10|[freebitcoin.io](https://freebitcoin.io)||
-11|[cryptowin.io](https://cryptowin.io)||
-12|[ourbitco.in](https://ourbitco.in)||
-13|[freedash.io](https://freedash.io)||
-14|[freeethereum.com](https://freeethereum.com)||
-15|[free-doge.com](https://free-doge.com)||
-16|[faucetbitcoin.cash](https://faucetbitcoin.cash/)||
+No | Site    | Coin    |Min WD|Time | Walet   
+---|---------|----------|----------|-----------|------------
+1|[Freebitcoin](https://freebitcoin.io/?ref=544081)|BTC|0.0002 BTC|1 h|All
+2|[coinfaucet.io](https://coinfaucet.io)||||
+3|[coinfaucet.net](https://coinfaucet.net)||||
+4|[faucetbit.io](https://faucetbit.io)||||
+5|[freecardano.com](https://freecardano.com)||||
+6|[freetether.com](https://freetether.com)||||
+7|[freeusdcoin.com](https://freeusdcoin.com)||||
+9|[free-tron.com](https://free-tron.com)||||
+10|[freebitcoin.io](https://freebitcoin.io)||||
+11|[cryptowin.io](https://cryptowin.io)||||
+12|[ourbitco.in](https://ourbitco.in)||||
+13|[freedash.io](https://freedash.io)||||
+14|[freeethereum.com](https://freeethereum.com)||||
+15|[free-doge.com](https://free-doge.com)||||
+16|[faucetbitcoin.cash](https://faucetbitcoin.cash/)||||
 
 
 ```{r, echo = FALSE }
