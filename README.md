@@ -47,10 +47,9 @@ No | Site    | Coin    |Min WD|Time | Walet
 20|[surf-trx.com](https://surf-trx.com/)||||
 20|[adbtc.top](https://adbtc.top/)||||
 
-```{r, echo = FALSE }
-// 1|[]()|| https://adbtc.top/
-```
+
 ## Address [FaucedPay](https://faucetpay.io/?r=2178387)
+
 ### BTC Address
 ```
 1HpXc7SUMcHNg3iyxsQadDsa5RK3K93kQx
