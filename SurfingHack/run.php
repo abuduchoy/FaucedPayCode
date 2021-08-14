@@ -5,7 +5,7 @@ system('clear');
 echo "Welcome to The Jungle \n";
 sleep(5);
 while(true){
-    include('xatoshi_data.php');
+    include('lib.php');
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, "https://surfingbtc.cc/surf");
     curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
