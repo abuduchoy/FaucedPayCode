@@ -2,6 +2,22 @@
 
 FaucedPayCode dibuat untuk menampung kode untuk mengclaim beberapa aplikasi. Untuk saat ini Admin masih akan berfokus menggunakan SmartPhone Android
 
+## Instalasi App dan Setting Termux
+### Install aplikasi  :
+  - `HttpCanary.app`
+  - `File Manager.php`
+  - `Termux.app`
+
+### Setting Termux
+- Lakukan install `mc` tulis command `pkg install mc`
+- Setelah terinstall tulis command `mc`
+- cari file `/..` > `/usr` > `/etc` > `/apt` >  `/sour-t.d`
+- Hapus file `game ist` dan `scie-ist` dan lakukan `pkg update  && upgrade`
+- Selanjutnya install kebutuhan instalasi :
+  - `pkg install php`
+  - `pkg install nano`
+  - `termux-setup-storage`
+
 ## Link Web
 Berikut web yang dapat di akses
 
