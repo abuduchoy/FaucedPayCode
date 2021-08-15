@@ -21,7 +21,7 @@ FaucedPayCode dibuat untuk menampung kode untuk mengclaim beberapa aplikasi. Unt
 ## Link Web
 Berikut web yang dapat di akses
 
-No | Site    | Coin    |Min WD|Time | Walet   
+No | Site    | Coin    |Min WD|Time | Walet 
 ---|---------|----------|----------|-----------|------------
 1|[Freebitcoin](https://freebitcoin.io/?ref=544081)|BTC|0.0002 BTC|1 h|All
 2|[coinfaucet.io](https://coinfaucet.io)||||
@@ -47,6 +47,8 @@ No | Site    | Coin    |Min WD|Time | Walet
 22|[faucetworld.in](https://faucetworld.in)||||EP
 23|[Speedcoins](http://auto.speedcoins.xyz)||||
 24|[SurfingBTC](https://surfingbtc.cc?r=Abudu93)||||
+
+
 > EP = ExpressCrypto, FP = FaucedPay
 
 ## Address [FaucedPay](https://faucetpay.io/?r=2178387)
