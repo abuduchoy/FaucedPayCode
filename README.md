@@ -53,7 +53,7 @@ No | Site    | Coin    |Min WD|Time | Walet
 
 ## Address [FaucedPay](https://faucetpay.io/?r=2178387) and [ExpressCrypto](https://expresscrypto.io/signup?referral=464632)
 
-### Walet ExpressCripto
+### Walet ExpressCrypto
 ```
 EC-UserId-464632
 ```
