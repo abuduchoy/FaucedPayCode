@@ -79,4 +79,4 @@ TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF
 
 
 ## Referensi
-- [GitHub Emoji] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [GitHub Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
