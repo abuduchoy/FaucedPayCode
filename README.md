@@ -51,7 +51,7 @@ No | Site    | Coin    |Min WD|Time | Walet
 
 > EP = ExpressCrypto, FP = FaucedPay
 
-## Address [FaucedPay](https://faucetpay.io/?r=2178387)
+## Address [FaucedPay](https://faucetpay.io/?r=2178387) and [ExpressCrypto](https://expresscrypto.io/signup?referral=464632)
 
 ### Walet ExpressCripto
 ```
