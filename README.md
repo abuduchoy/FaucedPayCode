@@ -51,6 +51,11 @@ No | Site    | Coin    |Min WD|Time | Walet
 
 ## Address [FaucedPay](https://faucetpay.io/?r=2178387)
 
+### Walet ExpressCripto
+```
+EC-UserId-464632
+```
+
 ### BTC Address
 ```
 1HpXc7SUMcHNg3iyxsQadDsa5RK3K93kQx
