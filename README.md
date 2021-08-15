@@ -46,7 +46,7 @@ No | Site    | Coin    |Min WD|Time | Walet
 19|[adsdgb.com](https://adsdgb.com/)||||
 20|[surf-trx.com](https://surf-trx.com/)||||
 20|[adbtc.top](https://adbtc.top/)||||
-
+21|[SoonBinace.co.in](https://soonbinance.co.in/)||||
 
 ## Address [FaucedPay](https://faucetpay.io/?r=2178387)
 
