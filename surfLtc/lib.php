@@ -1,5 +1,6 @@
 <?php
 
+$Capt = "";
+$captcha = "g-recaptcha-response=".$Capt;
 
-echo "hello world";
 ?>
