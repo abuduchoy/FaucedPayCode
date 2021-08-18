@@ -64,6 +64,7 @@ while(true){
     
 
   if($tk1[0] != ""){
+    
     echo "\n\033[1;30mAds : \033[1;33m {$adsName}\n"; sleep(1);
     echo "\033[1;30mPrice claim :\033[1;33m{$adsPrice} BTC\n"; sleep(1);
     echo "\033[1;30mDuration :\033[1;33m{$adsDrt} Second\n";sleep(1);
