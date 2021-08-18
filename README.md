@@ -48,7 +48,7 @@ No | Site    | Coin    |Min WD|Time | Walet
 23|[Speedcoins](http://auto.speedcoins.xyz)||||
 24|[SurfingBTC](https://surfingbtc.cc?r=Abudu93)||||
 25|[SurfLTC](https://adltc.cc?r=Abudu93)||||
-25|[Auto FaucetPay](http://uptocoin.tk/fp)||||
+25|[Auto FaucetPay](http://uptocoin.tk/fp/?r=D6Lh3ALK2Gx5QsanxxfcoE6P2TiHnCJ21a&rc=DOGE)||||
 25|[EC Up to Coin](https://uptocoin.tk/ec/)||||
 
 
