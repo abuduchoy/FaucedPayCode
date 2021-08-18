@@ -47,6 +47,7 @@ No | Site    | Coin    |Min WD|Time | Walet
 22|[faucetworld.in](https://faucetworld.in)||||EP
 23|[Speedcoins](http://auto.speedcoins.xyz)||||
 24|[SurfingBTC](https://surfingbtc.cc?r=Abudu93)||||
+25|[SurfLTC](https://adltc.cc?r=Abudu93)||||
 
 
 > EP = ExpressCrypto, FP = FaucedPay
