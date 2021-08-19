@@ -59,7 +59,9 @@ function createHeader($user, $cookie, $webtarget){
 } // end funct
 
 function getMessage($result) {
-	$has1 = explode('<div class="alert alert-success">', $res)[1];
+  
+	$has1 = explode('<div class="alert alert-success">', $result)[1];
+	//print_r($has1);
 	if($has1 != NULL ){
 		$hasil1 = explode('satoshi was sent to', $has1)[0];
 	} else {
@@ -68,6 +70,21 @@ function getMessage($result) {
 	
 	return $hasil1;
 } // end funct
+
+function getReff($result) {
+  
+	$has1 = explode('Referral</h2><div class="alert alert-success">', $result)[1];
+	//print_r($has1);
+	if($has1 != NULL ){
+		$hasil1 = explode('satoshi was sent to', $has1)[0];
+	} else {
+		$hasil1 = 0;
+	} // end else if
+	
+	return $hasil1;
+} // end funct
+
+
 
 
 ?>
