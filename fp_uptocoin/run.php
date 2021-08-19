@@ -29,37 +29,50 @@ echo$hijau2."System dijalankan \n";
 sleep(1);
 
 while(true){
-$header = array();
-$header[] = "user-agent:".$user;
-$header[] = "cookie:".$cookie;
-$header[] = "url:".$webtarget;
-	$res = getCoin($webtarget, $header);
-/**
-    $ch = curl_init(); 
-	curl_setopt($ch, CURLOPT_URL, $webtarget);
-	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-	curl_setopt($ch, CURLOPT_ENCODING, "");
-	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "GET");
-	curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
-	curl_setopt($ch, CURLOPT_TIMEOUT, $tmr);
-	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
-	$result = curl_exec($ch);
-	curl_close($ch);
-	**/
+	// menentukan jumlah perulangan
 	$n = $n + 1;
-	print_r($result);
-	$has1 = explode('<div class="alert alert-success">', $result)[1];
-    	$hasil1 = explode('satoshi was sent to', $has1)[0];
-	//print_r($hasil1);
-	$belance = $belance + $hasil1;
-	echo$biru."\n[".$n."] Claim : {$kuning1}{$hasil1}{$hijau2} Satoshi{$ungu2}. Belance :{$kuning1}{$belance}{$ungu2} Satoshi{$merah2}\n";
+	//#######[  Sesi 1  ]##########
+	// memanggil fungsi
+	$h = createHeader($user, $cookie, $webtarget);
+	$res = getCoin($webtarget, $h);
+	
+	if($res != NULL) {
+		$mess = getMessage($res);
+		$belance = $belance + $mess;
+		echo$biru."\n[".$n."] Claim : {$kuning1}{$mess}{$hijau2} Satoshi{$ungu2}. Belance :{$kuning1}{$belance}{$ungu2} Satoshi{$merah2}\n";
 
-for($i = 60; $i > -1; $i--){
-  echo $merah2."[ ";
-  echo "  \r{$i}] {$ungu2}wait ";
-  sleep(1);
-}
-//sleep($tmr);
-}
+		for($i = 61; $i > -1; $i--){
+			echo $merah2."[ ";
+			echo "  \r{$i}] {$ungu2}wait ";
+			sleep(1);
+		} // end for
+	} else {
+		echo "Situs tidak dapat dijangkau\n";
+	} // en else if
+	
+	//#######[  Sesi 2  ]##########
+	// memanggil fungsi
+	if($user_x != "" && $cookie_1 != "" && $url_reff_1 != ""){
+	
+	$h1 = createHeader($user_x, $cookie_1, $url_reff_1);
+	$res1 = getCoin($url_reff_1, $h1);
+	
+	if($res1 != NULL) {
+		$mess1 = getMessage($res1);
+		// $belance = $belance + $mess1;
+		echo$biru."\n[".$n."] Claim : {$kuning1}{$mess1}{$hijau2} Satoshi{$ungu2}.\n";
+
+		for($i = 61; $i > -1; $i--){
+			echo $merah2."[ ";
+			echo "  \r{$i}] {$ungu2}wait ";
+			sleep(1);
+		} // end for
+	} else {
+		echo "Situs tidak dapat dijangkau\n";
+	} // en else if
+	} // end if
+		else {
+	echo "Periksa user_agent, cookie dan url ada yang kosong !!\n";
+	} // end else
+} // end while
 ?>
