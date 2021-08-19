@@ -10,20 +10,16 @@ $user_x = "Mozilla/5.0 (Linux; Android 10; Infinix X692) AppleWebKit/537.36 (KHT
 //cookie
 $cookie = "HstCfa4361570=1628652464174; HstCmu4361570=1628652464174; HstCnv4361570=1; HstCns4361570=1; c_ref_4361570=https%3A%2F%2Fwww.google.com%2F; __dtsu=6D0016284374359B319EBDFB636B2B47; _cc_id=98feee562799aef888c0e80e0f075c77; __gads=ID=6c9f72ad395585cb-22fca495c3ca00c2:T=1628652490:RT=1628652490:S=ALNI_MblnMycgNGpDI0Ne6TBJ5dLkF1ihA; HstCla4361570=1628652496733; HstPn4361570=2; HstPt4361570=2";
 
-// cookie referal
-$cookie_1 = "HstCfa4361570=1628652464174; HstCmu4361570=1628652464174; HstCnv4361570=1; HstCns4361570=1; c_ref_4361570=https%3A%2F%2Fwww.google.com%2F; __dtsu=6D0016284374359B319EBDFB636B2B47; _cc_id=98feee562799aef888c0e80e0f075c77; __gads=ID=6c9f72ad395585cb-22fca495c3ca00c2:T=1628652490:RT=1628652490:S=ALNI_MblnMycgNGpDI0Ne6TBJ5dLkF1ihA; HstCla4361570=1628652496733; HstPn4361570=2; HstPt4361570=2";
-
-$cookie_2 = "";
-
 //timer-claim-dalam-satuan-detik
 $tmr = "60";
 
-// walet
-// http://uptocoin.tk/fp/?r=TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF&rc=DOGE
+// Master
 $w = "TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF";
 $key = "66c0b0a94cad9b6b4ce0923f31e745b2";
 
-// http://uptocoin.tk/fp/faucet.php?r=TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF&rc=DOGE&address=DF4fuDcUTakiiGUdt9xq5T7mbGv8CviRPq&currency=DOGE&key=0b34775ba375b79627051d521d1f315f
+$webtarget = "http://uptocoin.tk/fp/faucet.php?address={$w}&currency=DOGE&key={$key}";
+
+// array ...
 
 $reff = [
   1 => [
@@ -44,19 +40,11 @@ $reff = [
 ]
   ];
 
-//url-target-claim
-$webtarget = "http://uptocoin.tk/fp/faucet.php?address={$w}&currency=DOGE&key={$key}";
 
-// URL 
-for($i = 0; $i < count($reff); $i++){
+// URL array
+for($i = 1; $i <= count($reff); $i++){
 $urlReff[$i] = "http://uptocoin.tk/fp/faucet.php?r={$w}&rc=DOGE&address={$reff[$i]['w']}&currency=DOGE&key={$reff[$i]['key']}";
 }
-// url ref
-$url_reff_1 = "http://uptocoin.tk/fp/faucet.php?r={$w}&rc=DOGE&address={$w_reff_1}&currency=DOGE&key={$key_reff_1}";
-$url_reff_2 = "http://uptocoin.tk/fp/faucet.php?r={$w}&rc=DOGE&address={$w_reff_2}&currency=DOGE&key={$key_reff_2}";
-$url_reff_3 = "http://uptocoin.tk/fp/faucet.php?r={$w}&rc=DOGE&address={$w_reff_3}&currency=DOGE&key={$key_reff_3}";
-
-$url_reff_4 = "http://uptocoin.tk/fp/faucet.php?r={$w}&rc=DOGE&address={$w_reff_4}&currency=DOGE&key={$key_reff_4}";
 
 function cek($var){
   if($var == "") {
