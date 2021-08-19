@@ -32,8 +32,8 @@ while(true){
 		echo$biru."\n[".$n."] Claim : {$kuning1}{$mess}{$hijau2} Satoshi{$ungu2}. Belance :{$kuning1}{$belance}{$ungu2} Satoshi{$merah2}\n";
 
 		for($i = 61; $i > -1; $i--){
-			echo $merah2."[ ";
-			echo "  \r{$i}] {$ungu2}wait ";
+			echo $merah2." \r";
+			echo "[{$i}] {$ungu2}wait ";
 			sleep(1);
 		} // end for
 	} else {
@@ -42,21 +42,26 @@ while(true){
 	
 	//#######[  Sesi 2  ]##########
 	// memanggil fungsi
-	if($user_x != "" && $cookie_1 != "" && $url_reff_1 != ""){
+	if($user_x != "" && $key_reff_1 != ""){
 	
 	$h1 = createHeader($user_x, $cookie_1, $url_reff_1);
 	$res1 = getCoin($url_reff_1, $h1);
-	
+	// print_r($res1);
 	if($res1 != NULL) {
 		$mess1 = getMessage($res1);
 		// $belance = $belance + $mess1;
-		echo$biru."\n[".$n."] Claim : {$kuning1}{$mess1}{$hijau2} Satoshi{$ungu2}.\n";
+		// Referral</h2><div class="alert alert-success">27 satoshi was sent to
+   $reff1 = getReff($res1);
+   $belance = $belance + $reff1;
+		// echo$biru."\n[".$n."] Claim : {$kuning1}{$mess1}{$hijau2} Satoshi{$ungu2}";
+		echo "\nTake Reff {$reff1} Satoshi\n";
 
-		for($i = 61; $i > -1; $i--){
-			echo $merah2."[ ";
-			echo "  \r{$i}] {$ungu2}wait ";
+		for($i = 5; $i > -1; $i--){
+			echo $merah2." \r";
+			echo "[{$i}] {$ungu2}wait ";
 			sleep(1);
 		} // end for
+
 	} else {
 		echo "Situs tidak dapat dijangkau\n";
 	} // en else if
@@ -64,5 +69,95 @@ while(true){
 		else {
 	echo "Periksa user_agent, cookie dan url ada yang kosong !!\n";
 	} // end else
-} // end while
+
+//#######[  Sesi 3 ]##########
+	// memanggil fungsi
+	if($user_x != "" && $key_reff_2 != ""){
+	
+	$h2 = createHeader($user_x, $cookie_1, $url_reff_2);
+	$res2 = getCoin($url_reff_2, $h2);
+	// print_r($res1);
+	if($res2 != NULL) {
+		$mess1 = getMessage($res2);
+		// $belance = $belance + $mess1;
+		// Referral</h2><div class="alert alert-success">27 satoshi was sent to
+   $reff2 = getReff($res2);
+   $belance = $belance + $reff2;
+		// echo$biru."\n[".$n."] Claim : {$kuning1}{$mess1}{$hijau2} Satoshi{$ungu2}";
+		echo "\nTake Reff {$reff2} Satoshi\n";
+
+		for($i = 5; $i > -1; $i--){
+			echo $merah2." \r";
+			echo "[{$i}] {$ungu2}wait ";
+			sleep(1);
+		} // end for
+
+	} else {
+		echo "Situs tidak dapat dijangkau\n";
+	} // en else if
+	} // end if
+		else {
+	echo "Periksa user_agent, cookie dan url ada yang kosong !!\n";
+	} // end else
+
+//#######[  Sesi 4 ]##########
+	// memanggil fungsi
+	if($user_x != "" && $key_reff_3 != ""){
+	
+	$h3 = createHeader($user_x, $cookie_1, $url_reff_3);
+	$res3 = getCoin($url_reff_3, $h3);
+	// print_r($res1);
+	if($res3 != NULL) {
+		$mess3 = getMessage($res3);
+		// $belance = $belance + $mess1;
+		// Referral</h2><div class="alert alert-success">27 satoshi was sent to
+   $reff3 = getReff($res3);
+   $belance = $belance + $reff3;
+		// echo$biru."\n[".$n."] Claim : {$kuning1}{$mess1}{$hijau2} Satoshi{$ungu2}";
+		echo "\nTake Reff {$reff3} Satoshi\n";
+
+		for($i = 5; $i > -1; $i--){
+			echo $merah2." \r";
+			echo "[{$i}] {$ungu2}wait ";
+			sleep(1);
+		} // end for
+
+	} else {
+		echo "Situs tidak dapat dijangkau\n";
+	} // en else if
+	} // end if
+		else {
+	echo "Periksa user_agent, cookie dan url ada yang kosong !!\n";
+	} // end else
+
+//#######[  Sesi 5 ]##########
+	// memanggil fungsi
+	if($user_x != "" && $key_reff_4 != ""){
+	
+	$h4 = createHeader($user_x, $cookie_1, $url_reff_4);
+	$res4 = getCoin($url_reff_4, $h4);
+	// print_r($res1);
+	if($res4 != NULL) {
+		$mess4 = getMessage($res4);
+		// $belance = $belance + $mess1;
+		// Referral</h2><div class="alert alert-success">27 satoshi was sent to
+   $reff4 = getReff($res4);
+   $belance = $belance + $reff4;
+		// echo$biru."\n[".$n."] Claim : {$kuning1}{$mess1}{$hijau2} Satoshi{$ungu2}";
+		echo "\nTake Reff {$reff4} Satoshi\n";
+
+		for($i = 5; $i > -1; $i--){
+			echo $merah2." \r";
+			echo "[{$i}] {$ungu2}wait ";
+			sleep(1);
+		} // end for
+
+	} else {
+		echo "Situs tidak dapat dijangkau\n";
+	} // en else if
+	} // end if
+		else {
+	echo "Periksa user_agent, cookie dan url ada yang kosong !!\n";
+	} // end else
+} // end whil
 ?>
