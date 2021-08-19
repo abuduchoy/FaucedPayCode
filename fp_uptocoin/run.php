@@ -6,26 +6,16 @@ include('prop.php');
 system('clear');
 sleep(2);
 
-echo$hijau2."Mencoba inject data dari file cfg.php! \n\n";
+echo$hijau2."> Mencoba lakukan pengecekan\n"; sleep(1);
+echo$hijau2."> Mencoba inject data dari file cfg.php! \n\n";
 
 sleep(3);
-system('clear');
-
-echo$hijau2."Mohon tunggu. ";
-sleep(1);
-system('clear');
-echo$hijau2."Mohon tunggu. . ";
-sleep(1);
-system('clear');
-echo$hijau2."Mohon tunggu. . . ";
-sleep(1);
-
 system('clear');
 
 $n = 0;
 $belance = 0;
 
-echo$hijau2."System dijalankan \n";
+echo$hijau2."> System dijalankan \n";
 sleep(1);
 
 while(true){
