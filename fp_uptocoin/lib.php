@@ -48,7 +48,7 @@ $reff = [
 $webtarget = "http://uptocoin.tk/fp/faucet.php?address={$w}&currency=DOGE&key={$key}";
 
 // URL 
-for($i = 0; $i = count($reff); $i++){
+for($i = 0; $i < count($reff); $i++){
 $urlReff[$i] = "http://uptocoin.tk/fp/faucet.php?r={$w}&rc=DOGE&address={$reff[$i]['w']}&currency=DOGE&key={$reff[$i]['key']}";
 }
 // url ref
