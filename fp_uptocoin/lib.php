@@ -24,6 +24,14 @@ $w = "TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF";
 $key = "66c0b0a94cad9b6b4ce0923f31e745b2";
 
 // http://uptocoin.tk/fp/faucet.php?r=TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF&rc=DOGE&address=DF4fuDcUTakiiGUdt9xq5T7mbGv8CviRPq&currency=DOGE&key=0b34775ba375b79627051d521d1f315f
+
+$reff = [
+  1 => [
+    'key'=> "kei 1",
+    'w'=> "w 1"
+],
+  ];
+
 $w_reff_1 = "DF4fuDcUTakiiGUdt9xq5T7mbGv8CviRPq";
 $key_reff_1 = "0b34775ba375b79627051d521d1f315f";
 
