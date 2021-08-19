@@ -47,6 +47,10 @@ $reff = [
 //url-target-claim
 $webtarget = "http://uptocoin.tk/fp/faucet.php?address={$w}&currency=DOGE&key={$key}";
 
+// URL 
+for($i = 0; $i = count($reff); $i++){
+$urlReff[$i] = "http://uptocoin.tk/fp/faucet.php?r={$w}&rc=DOGE&address={$reff[$i]['w']}&currency=DOGE&key={$reff[$i]['key']}";
+}
 // url ref
 $url_reff_1 = "http://uptocoin.tk/fp/faucet.php?r={$w}&rc=DOGE&address={$w_reff_1}&currency=DOGE&key={$key_reff_1}";
 $url_reff_2 = "http://uptocoin.tk/fp/faucet.php?r={$w}&rc=DOGE&address={$w_reff_2}&currency=DOGE&key={$key_reff_2}";
