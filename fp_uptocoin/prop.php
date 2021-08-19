@@ -49,5 +49,25 @@ function getCoin($url, $header){
   return $result;
 }
 
+function createHeader($user, $cookie, $webtarget){
+	$header = array();
+	$header[] = "user-agent:".$user;
+	$header[] = "cookie:".$cookie;
+	$header[] = "url:".$webtarget;
+	
+	return $header;
+} // end funct
+
+function getMessage($result) {
+	$has1 = explode('<div class="alert alert-success">', $res)[1];
+	if($has1 != NULL ){
+		$hasil1 = explode('satoshi was sent to', $has1)[0];
+	} else {
+		$hasil1 = 0;
+	} // end else if
+	
+	return $hasil1;
+} // end funct
+
 
 ?>
