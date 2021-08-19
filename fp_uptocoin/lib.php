@@ -3,7 +3,7 @@
 //user-agent
 $user = "Mozilla/5.0 (Linux; Android 10; Infinix X692) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36";
 $user_lite = "";
-$user_wiki = "";
+$user_kiwi = "";
 $user_x = "";
 
 //cookie
@@ -33,5 +33,13 @@ $webtarget = "http://uptocoin.tk/fp/faucet.php?address={$w}&currency=DOGE&key={$
 // url ref
 $url_reff_1 = "http://uptocoin.tk/fp/faucet.php?r={$w}=DOGE&address={$w_reff_1}&currency=DOGE&key={$key_reff_1}";
 $url_reff_2 = "http://uptocoin.tk/fp/faucet.php?r={$w}=DOGE&address={$w_reff_2}&currency=DOGE&key={$key_reff_2}";
+
+function cek($var){
+  if($var == "") {
+    $q = "Kosong";
+  } else {
+    $q = "Siap"
+  }
+} // end funct
 
 ?>
