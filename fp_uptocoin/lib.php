@@ -41,7 +41,7 @@ $reff = [
   4 => [
     'key'=> "kei 4",
     'w'=> "w 4"
-],
+]
   ];
 
 $w_reff_1 = "DF4fuDcUTakiiGUdt9xq5T7mbGv8CviRPq";
