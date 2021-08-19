@@ -27,37 +27,22 @@ $key = "66c0b0a94cad9b6b4ce0923f31e745b2";
 
 $reff = [
   1 => [
-    'key'=> "kei 1",
-    'w'=> "w 1"
+ 'key'=> "0b34775ba375b79627051d521d1f315f",
+ 'w'=> "DF4fuDcUTakiiGUdt9xq5T7mbGv8CviRPq"
 ],
   2 => [
-    'key'=> "kei 2",
-    'w'=> "w 2"
+ 'key'=> "409b29502a24e3d071b24baf0299973a",
+ 'w'=> "DGg978VFUeYgfWR4AT9kRpwasTsZJ1Yb39"
 ],
   3 => [
-    'key'=> "kei 3",
-    'w'=> "w 3"
+ 'key'=> "dea4c7f0e64b8b5361f66e3b44d23366",
+ 'w'=> "DK241G5Lim45ujMq9FBCFYvQhYr48mVDq9"
 ],
   4 => [
-    'key'=> "kei 4",
-    'w'=> "w 4"
+ 'key'=> "f7d20d0a3191f7ea371fc70db19c6b84",
+ 'w'=> "DGGkjUJtPT7si32iHrqXJpbhV6CheGmQeA"
 ]
   ];
-
-$w_reff_1 = "DF4fuDcUTakiiGUdt9xq5T7mbGv8CviRPq";
-$key_reff_1 = "0b34775ba375b79627051d521d1f315f";
-
-// http://uptocoin.tk/fp/faucet.php?r=D6Lh3ALK2Gx5QsanxxfcoE6P2TiHnCJ21a&rc=DOGE&address=DGg978VFUeYgfWR4AT9kRpwasTsZJ1Yb39&currency=DOGE&key=409b29502a24e3d071b24baf0299973a
-$w_reff_2 = "DGg978VFUeYgfWR4AT9kRpwasTsZJ1Yb39";
-$key_reff_2 = "409b29502a24e3d071b24baf0299973a";
-
-
-$w_reff_3 = "DK241G5Lim45ujMq9FBCFYvQhYr48mVDq9";
-$key_reff_3 = "dea4c7f0e64b8b5361f66e3b44d23366";
-
-// http://uptocoin.tk/fp/faucet.php?r=D6Lh3ALK2Gx5QsanxxfcoE6P2TiHnCJ21a&rc=DOGE&address=DGGkjUJtPT7si32iHrqXJpbhV6CheGmQeA&currency=DOGE&key=f7d20d0a3191f7ea371fc70db19c6b84
-$w_reff_4 = "DGGkjUJtPT7si32iHrqXJpbhV6CheGmQeA";
-$key_reff_4 = "f7d20d0a3191f7ea371fc70db19c6b84";
 
 //url-target-claim
 $webtarget = "http://uptocoin.tk/fp/faucet.php?address={$w}&currency=DOGE&key={$key}";
