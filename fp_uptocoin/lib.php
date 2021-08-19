@@ -14,3 +14,5 @@ $tmr = "60";
 
 //url-target-claim
 $webtarget = "http://uptocoin.tk/fp/faucet.php?address=TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF&currency=DOGE&key=66c0b0a94cad9b6b4ce0923f31e745b2";
+
+?>
