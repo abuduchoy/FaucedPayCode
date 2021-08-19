@@ -30,15 +30,18 @@ $reff = [
     'key'=> "kei 1",
     'w'=> "w 1"
 ],
-2 => [
-    'key'=> "kei 1",
-    'w'=> "w 1"
+  2 => [
+    'key'=> "kei 2",
+    'w'=> "w 2"
 ],
-3 => [
-    'key'=> "kei 1",
-    'w'=> "w 1"
-]
-
+  3 => [
+    'key'=> "kei 3",
+    'w'=> "w 3"
+],
+  4 => [
+    'key'=> "kei 4",
+    'w'=> "w 4"
+],
   ];
 
 $w_reff_1 = "DF4fuDcUTakiiGUdt9xq5T7mbGv8CviRPq";
