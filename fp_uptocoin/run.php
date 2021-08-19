@@ -38,9 +38,40 @@ while(true){
 		} // end for
 	} else {
 		echo "Situs tidak dapat dijangkau\n";
-	} // en else if
+	} // end else if
 	
-	//#######[  Sesi 2  ]##########
+	//#######[  Sesi Reff  ]##########
+	for($i = 1; $i <= count($reff); $i++){
+	  if($user_x != "" && $reff[$i]['key'] != ""){
+	    // membuat header
+	    $h[$i] = createHeader($user_x, $cookie, $urlReff[$i]);
+	    
+	    // exekusi
+	    $res[$i] = getCoin($urlReff[$i],$h[$i]);
+	    
+	    // pengecekan hasil 
+	    if($res[$i] != NULL) {
+	      $mess[$i] = getMessage($res[$i]);
+        $xreff[$i] = getReff($res[$i]);
+        $belance = $belance + $xreff[$i];
+	
+		echo "\nTake Reff {$xreff[$i]} Satoshi\n";
+
+		for($j = 5; $j > -1; $j--){
+			echo $merah2." \r";
+			echo "[{$j}] {$ungu2}wait ";
+			sleep(1);
+		} // end for
+
+	} // end if
+    else {
+      echo "Situs tidak dapat dijangkau\n";
+    } // end else
+	  } // end if
+      else {
+        echo "Periksa user_agent, cookie dan url ada yang kosong !!\n";
+      } // end else
+	} // enf else if
 	// memanggil fungsi
 	if($user_x != "" && $key_reff_1 != ""){
 	
@@ -48,12 +79,10 @@ while(true){
 	$res1 = getCoin($url_reff_1, $h1);
 	// print_r($res1);
 	if($res1 != NULL) {
-		$mess1 = getMessage($res1);
-		// $belance = $belance + $mess1;
-		// Referral</h2><div class="alert alert-success">27 satoshi was sent to
-   $reff1 = getReff($res1);
-   $belance = $belance + $reff1;
-		// echo$biru."\n[".$n."] Claim : {$kuning1}{$mess1}{$hijau2} Satoshi{$ungu2}";
+	  $mess1 = getMessage($res1);
+    $reff1 = getReff($res1);
+    $belance = $belance + $reff1;
+	
 		echo "\nTake Reff {$reff1} Satoshi\n";
 
 		for($i = 5; $i > -1; $i--){
