@@ -21,34 +21,34 @@ Berikut web yang dapat di akses
 
 No | Site    | Coin    |Hack |Claim | Walet 
 ---|---------|----------|----------|-----------|------------
-1|[Freebitcoin](https://freebitcoin.io/?ref=544081)|BTC|:x:|:invinity:|All
-2|[coinfaucet.io](https://coinfaucet.io)||:heavy_check_mark:|:o:|
-3|[coinfaucet.net](https://coinfaucet.net)||||
-4|[faucetbit.io](https://faucetbit.io)||||
-5|[freecardano.com](https://freecardano.com)||||
-6|[freetether.com](https://freetether.com)||||
-7|[freeusdcoin.com](https://freeusdcoin.com)||||
-9|[free-tron.com](https://free-tron.com/?ref=273250)||||
-10|[freebitcoin.io](https://freebitcoin.io)||||
-11|[cryptowin.io](https://cryptowin.io)||||
-12|[ourbitco.in](https://ourbitco.in)||||
-13|[freedash.io](https://freedash.io)||||
-14|[freeethereum.com](https://freeethereum.com)||||
-15|[free-doge.com](https://free-doge.com)||||
-16|[faucetbitcoin.cash](https://faucetbitcoin.cash/)||||
-17|[surfingbtc.cc](https://surfingbtc.cc)||||
-18|[addoge.cc](https://addoge.cc/)||||
-19|[adsdgb.com](https://adsdgb.com/)||||
-20|[surf-trx.com](https://surf-trx.com/)||||
-20|[adbtc.top](https://adbtc.top/)||||
-21|[SoonBinace.co.in](https://soonbinance.co.in/)||||
-22|[faucetworld.in](https://faucetworld.in)||||EP
-23|[Speedcoins](http://auto.speedcoins.xyz)||||
-24|[SurfingBTC](https://surfingbtc.cc?r=Abudu93)||||
-25|[SurfLTC](https://adltc.cc?r=Abudu93)||||
-25|[Auto FaucetPay](http://uptocoin.tk/fp/?r=D6Lh3ALK2Gx5QsanxxfcoE6P2TiHnCJ21a&rc=DOGE)||||
-25|[EC Up to Coin](https://uptocoin.tk/ec/)||||
-26|[coinfree.site](https://coinfree.site/ref/Abudu93/)|Doge|||
+1|[Freebitcoin](https://freebitcoin.io/?ref=544081)|BTC|✖️|♾️|All
+2|[coinfaucet.io](https://coinfaucet.io)||❌||
+3|[coinfaucet.net](https://coinfaucet.net)||❌||
+4|[faucetbit.io](https://faucetbit.io)||❌||
+5|[freecardano.com](https://freecardano.com)||❌||
+6|[freetether.com](https://freetether.com)||❌||
+7|[freeusdcoin.com](https://freeusdcoin.com)||❌||
+9|[free-tron.com](https://free-tron.com/?ref=273250)||❌||
+10|[freebitcoin.io](https://freebitcoin.io)|❌|||
+11|[cryptowin.io](https://cryptowin.io)||❌||
+12|[ourbitco.in](https://ourbitco.in)||❌||
+13|[freedash.io](https://freedash.io)||❌||
+14|[freeethereum.com](https://freeethereum.com)||❌||
+15|[free-doge.com](https://free-doge.com)||❌||
+16|[faucetbitcoin.cash](https://faucetbitcoin.cash/)||❌||
+17|[surfingbtc.cc](https://surfingbtc.cc)||❌||
+18|[addoge.cc](https://addoge.cc/)||❌||
+19|[adsdgb.com](https://adsdgb.com/)||❌||
+20|[surf-trx.com](https://surf-trx.com/)||❌||
+20|[adbtc.top](https://adbtc.top/)||❌||
+21|[SoonBinace.co.in](https://soonbinance.co.in/)||❌||
+22|[faucetworld.in](https://faucetworld.in)||❌||EP
+23|[Speedcoins](http://auto.speedcoins.xyz)||❌||
+24|[SurfingBTC](https://surfingbtc.cc?r=Abudu93)||❌||
+25|[SurfLTC](https://adltc.cc?r=Abudu93)||❌||
+25|[Auto FaucetPay](http://uptocoin.tk/fp/?r=D6Lh3ALK2Gx5QsanxxfcoE6P2TiHnCJ21a&rc=DOGE)||❌||
+25|[EC Up to Coin](https://uptocoin.tk/ec/)||❌||
+26|[coinfree.site](https://coinfree.site/ref/Abudu93/)|Doge|❌||
 
 
 > EP = ExpressCrypto, FP = FaucedPay
