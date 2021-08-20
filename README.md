@@ -23,7 +23,7 @@ Berikut web yang dapat di akses
 
 ![](https://github.githubassets.com/images/icons/emoji/unicode/267e.png?v8){:height="30px" width="30px"}
 
-:+1:
+:+1: ✔️🔥☑️🔗💰⚡🏷️📱💾🔄🎁📢
 
 No | Site    | Coin    |Hack |Claim | Walet 
 ---|---------|----------|----------|-----------|------------
