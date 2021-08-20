@@ -42,13 +42,13 @@ No | Site    | Coin    |Hack |Claim | Walet
 20|[surf-trx.com](https://surf-trx.com/)||❌||
 20|[adbtc.top](https://adbtc.top/)||❌||
 21|[SoonBinace.co.in](https://soonbinance.co.in/)||❌||
-22|[faucetworld.in](https://faucetworld.in)||❌||EP
-23|[Speedcoins](http://auto.speedcoins.xyz)||❌||
+22|[faucetworld.in](https://faucetworld.in)||❌|🚀| ep
+23|[Speedcoins](http://auto.speedcoins.xyz)||🚫||
 24|[SurfingBTC](https://surfingbtc.cc?r=Abudu93)||❌||
-25|[SurfLTC](https://adltc.cc?r=Abudu93)||❌||
-25|[Auto FaucetPay](http://uptocoin.tk/fp/?r=D6Lh3ALK2Gx5QsanxxfcoE6P2TiHnCJ21a&rc=DOGE)||❌||
-25|[EC Up to Coin](https://uptocoin.tk/ec/)||❌||
-26|[coinfree.site](https://coinfree.site/ref/Abudu93/)|Doge|❌||
+25|[SurfLTC](https://adltc.cc?r=Abudu93)||✔️|⭕|
+25|[Auto FaucetPay](http://uptocoin.tk/fp/?r=D6Lh3ALK2Gx5QsanxxfcoE6P2TiHnCJ21a&rc=DOGE)||✔️|♾️|
+25|[EC Up to Coin](https://uptocoin.tk/ec/)||✔️|♾️|
+26|[coinfree.site](https://coinfree.site/ref/Abudu93/)|Doge|✔️|⭕|
 
 
 > EP = ExpressCrypto, FP = FaucedPay
