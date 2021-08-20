@@ -1,5 +1,5 @@
 <?php
-
+include('captcha.php');
 $url = [
   'process' => "https://coinfree.site/user/faucet", 
   'faucet' => "https://coinfree.site/user/faucet"
