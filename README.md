@@ -19,12 +19,6 @@ FaucedPayCode dibuat untuk menampung kode untuk mengclaim beberapa aplikasi. Unt
 ## Link Web
 Berikut web yang dapat di akses
 
-![](https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8){:height="30px" width="30px"}
-
-![](https://github.githubassets.com/images/icons/emoji/unicode/267e.png?v8){:height="30px" width="30px"}
-
-:+1: ✔️🔥☑️🔗💰⚡🏷️📱💾🔄🎁📢
-
 No | Site    | Coin    |Hack |Claim | Walet 
 ---|---------|----------|----------|-----------|------------
 1|[Freebitcoin](https://freebitcoin.io/?ref=544081)|BTC|:x:|:invinity:|All
