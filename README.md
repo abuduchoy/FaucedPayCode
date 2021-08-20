@@ -30,7 +30,7 @@ No | Site    | Coin    |Min WD|Time | Walet
 5|[freecardano.com](https://freecardano.com)||||
 6|[freetether.com](https://freetether.com)||||
 7|[freeusdcoin.com](https://freeusdcoin.com)||||
-9|[free-tron.com](https://free-tron.com)||||
+9|[free-tron.com](https://free-tron.com/?ref=273250)||||
 10|[freebitcoin.io](https://freebitcoin.io)||||
 11|[cryptowin.io](https://cryptowin.io)||||
 12|[ourbitco.in](https://ourbitco.in)||||
