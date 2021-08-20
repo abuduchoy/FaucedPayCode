@@ -21,9 +21,9 @@ FaucedPayCode dibuat untuk menampung kode untuk mengclaim beberapa aplikasi. Unt
 ## Link Web
 Berikut web yang dapat di akses
 
-No | Site    | Coin    |Min WD|Time | Walet 
+No | Site    | Coin    |Hack |Claim | Walet 
 ---|---------|----------|----------|-----------|------------
-1|[Freebitcoin](https://freebitcoin.io/?ref=544081)|BTC|0.0002 BTC|1 h|All
+1|[Freebitcoin](https://freebitcoin.io/?ref=544081)|BTC|:x:|:invinity:|All
 2|[coinfaucet.io](https://coinfaucet.io)||||
 3|[coinfaucet.net](https://coinfaucet.net)||||
 4|[faucetbit.io](https://faucetbit.io)||||
