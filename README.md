@@ -1,5 +1,3 @@
-# FaucedPay Hack
-
 FaucedPayCode dibuat untuk menampung kode untuk mengclaim beberapa aplikasi. Untuk saat ini Admin masih akan berfokus menggunakan SmartPhone Android
 
 ## Instalasi App dan Setting Termux
@@ -25,6 +23,7 @@ Berikut web yang dapat di akses
 
 ![](https://github.githubassets.com/images/icons/emoji/unicode/267e.png?v8){:height="30px" width="30px"}
 
+:+1:
 
 No | Site    | Coin    |Hack |Claim | Walet 
 ---|---------|----------|----------|-----------|------------
