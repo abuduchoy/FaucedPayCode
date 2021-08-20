@@ -31,7 +31,7 @@ No | Site    | Coin    |Hack |Claim | Walet
 9|[free-tron.com](https://free-tron.com/?ref=273250)||❌||
 10|[freebitcoin.io](https://freebitcoin.io)|❌|||
 11|[cryptowin.io](https://cryptowin.io)||❌||
-12|[ourbitco.in](https://ourbitco.in)||❌||
+12|[ourbitco.in](https://ourbitco.in)||🚫||
 13|[freedash.io](https://freedash.io)||❌||
 14|[freeethereum.com](https://freeethereum.com)||❌||
 15|[free-doge.com](https://free-doge.com)||❌||
