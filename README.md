@@ -21,7 +21,7 @@ FaucedPayCode dibuat untuk menampung kode untuk mengclaim beberapa aplikasi. Unt
 ## Link Web
 Berikut web yang dapat di akses
 
-"indonesia": ![indonesia](https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png|width=10)
+"indonesia": ![indonesia](https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png=100x100)
 
 :indonesia:
 
