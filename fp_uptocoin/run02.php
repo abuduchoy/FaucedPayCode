@@ -1,5 +1,5 @@
 <?php
-include('lib3.php');
+include('lib02.php');
 include('prop.php');
 
 system('clear');
