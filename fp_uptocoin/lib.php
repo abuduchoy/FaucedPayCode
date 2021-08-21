@@ -22,27 +22,29 @@ $webtarget = "http://uptocoin.tk/fp/faucet.php?address={$w}&currency=DOGE&key={$
 // array ...
 
 $reff = [
+  0 => [
+ 'key'=> "0b3f7c475ea49a8890097ae164564ab4",
+ 'w'=> "DEywZMmog3YDWjehXxRbW8PtCNhWu8Wgaa"
+],
   1 => [
- 'key'=> "0b34775ba375b79627051d521d1f315f",
- 'w'=> "DF4fuDcUTakiiGUdt9xq5T7mbGv8CviRPq"
+ 'key'=> "eaf9d70061dc9b7ddd3a5abf3a93fabc",
+ 'w'=> "D7Ng7vQs4oTmB5SR3GZHkhptHRLjmVACFQ"
 ],
-  2 => [
- 'key'=> "409b29502a24e3d071b24baf0299973a",
- 'w'=> "DGg978VFUeYgfWR4AT9kRpwasTsZJ1Yb39"
-],
-  3 => [
- 'key'=> "dea4c7f0e64b8b5361f66e3b44d23366",
- 'w'=> "DK241G5Lim45ujMq9FBCFYvQhYr48mVDq9"
-],
-  4 => [
- 'key'=> "f7d20d0a3191f7ea371fc70db19c6b84",
- 'w'=> "DGGkjUJtPT7si32iHrqXJpbhV6CheGmQeA"
+2 => [
+ 'key'=> "25065961f8f7e918b5f16bf6e15a855d",
+ 'w'=> "DRSJsUTs8qKaX3CcbPhWRaErJR5ZWfsMAH"
 ]
+
   ];
 
+/**
 
+
+
+
+**/
 // URL array
-for($i = 1; $i <= count($reff); $i++){
+for($i = 0; $i < count($reff); $i++){
 $urlReff[$i] = "http://uptocoin.tk/fp/faucet.php?r={$w}&rc=DOGE&address={$reff[$i]['w']}&currency=DOGE&key={$reff[$i]['key']}";
 }
 
