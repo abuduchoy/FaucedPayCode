@@ -22,7 +22,7 @@ Berikut web yang dapat di akses
 No | Site    | Coin    |Hack |Claim | Walet 
 ---|---------|----------|----------|-----------|------------
 1|[Freebitcoin](https://freebitcoin.io/?ref=544081)|BTC|✖️|♾️|All
-2|[coinfaucet.io](https://coinfaucet.io)||❌||
+2|[coinfaucet.io](https://coinfaucet.io)|XRP|❌||
 3|[coinfaucet.net](https://coinfaucet.net)||❌||
 4|[faucetbit.io](https://faucetbit.io)||❌||
 5|[freecardano.com](https://freecardano.com)||❌||
