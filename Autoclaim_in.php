@@ -1,14 +1,27 @@
 <?php
+/**
+Code by @IDXMiners 
+© Copyright IDXMeners
+
+instructions
+
+1. Visit link 
+2. Enter your cookies.
+3. Open the Termux application, and run the application.
+
+**/
+
 system('clear');
 
-$url = ['short' => "https://autoclaim.in/dashboard/shortlinks",
+$url = [
+'short' => "https://autoclaim.in/dashboard/shortlinks",
 'verify' => "https://autoclaim.in/verify/cli-au",
 'start' => "https://autoclaim.in/dashboard/claim/auto/start"
 ];
 
 $user_agent = "Mozilla/5.0 (Linux; Android 9; vivo 1902) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Mobile Safari/537.36";
 
-$cookie = "_ga=GA1.2.1329504229.1629553346;_gid=GA1.2.524993102.1629553346;uhash=bc670ee806e73975c78a4d85462b0585;PHPSESSID=220ffefaf5c618b6ebe3925989eb4802;a=p2QnH1Xs7hHRzAW5zvP9HA9tK4FswU1r;_popfired=1;_popfired_expires=Invalid%20Date;token_QpUJAAAAAAAAGu98Hdz1l_lcSZ2rY60Ajjk9U1c=BAYAYSJtzQFhInSUgAGBAsAAIPy566BeqxTxKLt80zktJEMCOCS99KFbpFqnjEF7w1g9wQBHMEUCIFnyqf6AASbwQvDJ8FXxoJAcibJp8zu4kwLKXX5E-dT7AiEA2qMNdjYjxRJ90OEVzzt_P16iCXbjQKgoHLfrZWKyBJw;lastOpenAt_=1629648066448";
+$cookie = "";
 $header = array();
 $header[] = "user-agent: ".$user_agent;
 $header[] = 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9';
