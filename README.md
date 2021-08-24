@@ -46,7 +46,7 @@ No | Site    | Coin    |Hack |Claim | Walet
 23|[Speedcoins](http://auto.speedcoins.xyz)||🚫||
 24|[SurfingBTC](https://surfingbtc.cc?r=Abudu93)||❌||
 25|[SurfLTC](https://adltc.cc?r=Abudu93)||✔️|⭕|
-25|[Auto FaucetPay](http://uptocoin.tk/fp/?r=D6Lh3ALK2Gx5QsanxxfcoE6P2TiHnCJ21a&rc=DOGE)||✔️|♾️|
+25|[Uptocoin FP](http://uptocoin.tk/fp/?r=D6Lh3ALK2Gx5QsanxxfcoE6P2TiHnCJ21a&rc=DOGE)||✔️|♾️|
 25|[EC Up to Coin](https://uptocoin.tk/ec/)||✔️|♾️|
 26|[coinfree.site](https://coinfree.site/ref/Abudu93/)|Doge|✔️|⭕|
 27|[autoclaim.in](https://autoclaim.in/r/Abudu93)|Doge|✔️|⭕|
