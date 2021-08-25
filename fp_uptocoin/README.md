@@ -6,7 +6,7 @@ Bila anda melakukan hal yang sama lakukan lah dengan bijak.
 
 ### File
 File berisi 3 file utama: 
-1. ‘Lib.php’
+1. Lib.php
 2. Prop.php
 3. Run.php
 
