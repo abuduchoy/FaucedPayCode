@@ -6,7 +6,10 @@ Bila anda melakukan hal yang sama lakukan lah dengan bijak.
 
 ### File
 File berisi 3 file utama: 
-1. Lib.php
-2. Prop.php
-3. Run.php
+1. `Lib.php` digunakan sebagai library, kumpulan alamat dari Doge coin
+2. `Prop.php` digukan untuk mengeksekusi beberapa fungsi
+3. `Run.php` file utama untuk menjalan program
 
+### Running Program
+
+...
