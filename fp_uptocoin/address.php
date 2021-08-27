@@ -4,6 +4,8 @@
 D9jfdWZzb7MfF34of5VmggXYBW2wcuKJ4V
 D6i3Hop1qP1dviepJDAB3ASjPhSQghon9H
 DG4vP9ycyy4eMyUrxGrwbGMJEYh5SPkyib
+
+# buat reff 05 v2
 DAbePnybYWcuASVTtGuTJ997rQZxVytW5H
 
 ########### sesi 6 ######$$#$$$$##
