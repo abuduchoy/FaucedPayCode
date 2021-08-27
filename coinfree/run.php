@@ -221,38 +221,5 @@ echo "\n🔻 [{$no}]".$s[$i]['title'];
 
 
 // print_r($s);
-echo "\n SELESAI";
-/**
- * 
- <div class="alert alert-success"> 122319 credits and 20000 points have been added to your account!</div>                                                                        
-                                                <p class="text-muted text-center"> Complete these PTC links and get 50 claims for every PTC passed.</p>
-                                                <p class="text-muted text-center font-600"><span class="badge badge-danger">NOTE: Coinfree DOES NOT HAVE CONTROL OVER THESE PTC LINKS.</span>
-                                             <i class="fa fa-bank"></i> 0.02739840 DOGE</span>
-                                </a>
-                            </li>
-
-                            <li class="dropdown user-box">
-                                <a href="" class="dropdown-toggle waves-effect user-link" data-toggle="dropdown" aria-expanded="true">
-                                  <span class="avatar-sm-box bg-primary"><i class="fa fa-user"></i></span>
-                                </a>
-
-                                <ul class="dropdown-menu dropdown-menu-right arrow-dropdown-menu arrow-menu-right user-list notify-list">
-                                    <li>
-                                        <h5>Hi, Abudu93</h5>
-                                    </li>   
-                                        
-$aCsrf = explode('name="csrf" value="',$res)[1];
-  $csrf = explode('"/>',$aCsrf)[0];
-
-$aKey = explode('g-recaptcha" data-sitekey="',$res)[1];
-  $key = explode('" style="',$aKey)[0];
-
-
-$lKey = "http://www.google.com/recaptcha/api2/userverify?k={$key}";
-
-
-$rcc = getURL($u, $lKey);
-print_r($rcc);
-printf($rcc);
-**/
+echo "\n ";
 ?>
