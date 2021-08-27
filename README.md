@@ -1,4 +1,4 @@
-FaucedPayCode dibuat untuk menampung kode untuk mengclaim beberapa aplikasi. Untuk saat ini Admin masih akan berfokus menggunakan SmartPhone Android [view code](https://github.com/abuduchoy/FaucedPayCode)
+FaucedPayCode dibuat untuk menampung kode untuk mengclaim beberapa aplikasi. Untuk saat ini Admin masih akan berfokus menggunakan SmartPhone Android [view code](https://github.com)
 ## Instalasi App dan Setting Termux
 ### Install aplikasi  :
   - `HttpCanary.app`
