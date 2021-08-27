@@ -13,7 +13,7 @@ $cookie = "HstCfa4361570=1628652464174; HstCmu4361570=1628652464174; HstCnv43615
 // cookie referal
 $cookie_1 = "HstCfa4361570=1628652464174; HstCmu4361570=1628652464174; HstCnv4361570=1; HstCns4361570=1; c_ref_4361570=https%3A%2F%2Fwww.google.com%2F; __dtsu=6D0016284374359B319EBDFB636B2B47; _cc_id=98feee562799aef888c0e80e0f075c77; __gads=ID=6c9f72ad395585cb-22fca495c3ca00c2:T=1628652490:RT=1628652490:S=ALNI_MblnMycgNGpDI0Ne6TBJ5dLkF1ihA; HstCla4361570=1628652496733; HstPn4361570=2; HstPt4361570=2";
 
-$w = "TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF";
+$w = "";
 $key = "";
 
 
@@ -52,17 +52,17 @@ $reff = [
  'key'=> "",
  'w'=> "D9BpUXUB33K3u63Uj77w9bCVnMYBuSYF6f"
 ],
-7 => [
+7 => [ // alamat baru 
 'key'=> "",
- 'w'=> ""
+ 'w'=> "D9jfdWZzb7MfF34of5VmggXYBW2wcuKJ4V"
 ],
 8 => [
 'key'=> "",
- 'w'=> ""
+ 'w'=> "D6i3Hop1qP1dviepJDAB3ASjPhSQghon9H"
 ],
 9 => [
 'key'=> "",
- 'w'=> ""
+ 'w'=> "DG4vP9ycyy4eMyUrxGrwbGMJEYh5SPkyib"
 ],
 10 => [
 'key'=> "",
