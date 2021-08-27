@@ -14,7 +14,7 @@ $cookie = "HstCfa4361570=1628652464174; HstCmu4361570=1628652464174; HstCnv43615
 $cookie_1 = "HstCfa4361570=1628652464174; HstCmu4361570=1628652464174; HstCnv4361570=1; HstCns4361570=1; c_ref_4361570=https%3A%2F%2Fwww.google.com%2F; __dtsu=6D0016284374359B319EBDFB636B2B47; _cc_id=98feee562799aef888c0e80e0f075c77; __gads=ID=6c9f72ad395585cb-22fca495c3ca00c2:T=1628652490:RT=1628652490:S=ALNI_MblnMycgNGpDI0Ne6TBJ5dLkF1ihA; HstCla4361570=1628652496733; HstPn4361570=2; HstPt4361570=2";
 
 $w = "TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF";
-$key = "66c0b0a94cad9b6b4ce0923f31e745b2";
+$key = "";
 
 
 
@@ -25,34 +25,109 @@ $tmr = "60";
 
 $reff = [
       0 => [
-'key'=> "0b34775ba375b79627051d521d1f315f",
+'key'=> "",
 'w'=> "DF4fuDcUTakiiGUdt9xq5T7mbGv8CviRPq"
     ],
     1 => [
-'key'=> "409b29502a24e3d071b24baf0299973a",
+'key'=> "",
 'w'=> "DGg978VFUeYgfWR4AT9kRpwasTsZJ1Yb39"
     ],
     2  => [
-'key'=> "dea4c7f0e64b8b5361f66e3b44d23366",
+'key'=> "",
 'w'=> "DK241G5Lim45ujMq9FBCFYvQhYr48mVDq9"
     ],
     3  => [
-'key'=> "f7d20d0a3191f7ea371fc70db19c6b84",
+'key'=> "",
 'w'=> "DGGkjUJtPT7si32iHrqXJpbhV6CheGmQeA"
     ],
 4 => [
- 'key'=> "c51adf31439da5ac0b72124d4c2b678e",
+ 'key'=> "",
  'w'=> "D8HY18d2v152ZyyhhYhkPwEA7VGv5eqyqQ"
 ],
 5 => [
- 'key'=> "227383956d0197a30eee2c31bb84d002",
+ 'key'=> "",
  'w'=> "DDuxHS7Udor3BKVHgZVKddGh77GBYSkip2"
 ],
 6 => [
- 'key'=> "13bcd58f06629e6c451c174f2cbd9a29",
+ 'key'=> "",
  'w'=> "D9BpUXUB33K3u63Uj77w9bCVnMYBuSYF6f"
+],
+7 => [
+'key'=> "",
+ 'w'=> ""
+],
+8 => [
+'key'=> "",
+ 'w'=> ""
+],
+9 => [
+'key'=> "",
+ 'w'=> ""
+],
+10 => [
+'key'=> "",
+ 'w'=> ""
+],
+11 => [
+'key'=> "",
+ 'w'=> ""
+],
+12 => [
+'key'=> "",
+ 'w'=> ""
+],
+13 => [
+'key'=> "",
+ 'w'=> ""
+],
+14 => [
+'key'=> "",
+ 'w'=> ""
+],
+15 => [
+'key'=> "",
+ 'w'=> ""
+],
+16 => [
+'key'=> "",
+ 'w'=> ""
+],
+17 => [
+'key'=> "",
+ 'w'=> ""
+],
+18 => [
+'key'=> "",
+ 'w'=> ""
+],
+19 => [
+'key'=> "",
+ 'w'=> ""
+],
+20 => [
+'key'=> "",
+ 'w'=> ""
+],
+21 => [
+'key'=> "",
+ 'w'=> ""
+],
+22 => [
+'key'=> "",
+ 'w'=> ""
+],
+23 => [
+'key'=> "",
+ 'w'=> ""
+],
+24 => [
+'key'=> "",
+ 'w'=> ""
+],
+25 => [
+'key'=> "",
+ 'w'=> ""
 ]
-    
   ];
 
 
