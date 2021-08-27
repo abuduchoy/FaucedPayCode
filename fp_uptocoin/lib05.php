@@ -14,7 +14,7 @@ $tmr = "60";
 
 // Master
 $w = "TQWEaCKTVNzFSi7s29RamaiQou8VpgxNfF";
-$key = "66c0b0a94cad9b6b4ce0923f31e745b2";
+$key = "";
 
 $webtarget = "http://uptocoin.tk/fp/faucet.php?address={$w}&currency=DOGE&key={$key}";
 
