@@ -49,6 +49,9 @@ No | Site    | Coin    |Hack |Claim | Walet
 25|[EC Up to Coin](https://uptocoin.tk/ec/)||✔️|♾️|
 26|[coinfree.site](https://coinfree.site/ref/Abudu93/)|Doge|✔️|⭕|
 27|[autoclaim.in](https://autoclaim.in/r/Abudu93)|Doge|✔️|⭕|
+28|[adstomoney.com](https://adstomoney.com/?r=3408)|All|✔️|⭕|
+
+
 
 
 > EP = ExpressCrypto, FP = FaucedPay
